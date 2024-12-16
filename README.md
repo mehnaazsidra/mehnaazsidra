@@ -3,9 +3,10 @@
 <h3 align="center">A Passionate Data Enthusiastic </h3>
 
 
-<img align="right" alt="GitHub Animation" width="250" src="https://github.com/mehnaazsidra/mehnaazsidra/blob/main/git%20hub.gif?raw=true">
+<img align="right" alt="GitHub Animation" width="250" src="https://github.com/mehnaazsidra/mehnaazsidra/blob/main/gg.gif?raw=true">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehnaazsidra&label=Profile%20views&color=0e75b6&style=flat" alt="mehnaazsidra" /> </p>
+
 
 - 🌱 I’m currently learning **Ppower BI, SQL, Excel and Python**
 

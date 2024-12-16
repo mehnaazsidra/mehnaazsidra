@@ -1,6 +1,7 @@
  ![3rd Banner](https://github.com/mehnaazsidra/mehnaazsidra/blob/main/3rd%20banner.jpg?raw=true)
 <h1 align="center">Hi 👋, I'm Sidra Mehnaaz</h1>
 <h3 align="center">A Passionate Data enthusiastic from India</h3>
+
 ![GitHub Animation](https://github.com/mehnaazsidra/mehnaazsidra/blob/main/git%20hub.gif?raw=true)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehnaazsidra&label=Profile%20views&color=0e75b6&style=flat" alt="mehnaazsidra" /> </p>

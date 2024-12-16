@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehnaazsidra&label=Profile%20views&color=0e75b6&style=flat" alt="mehnaazsidra" /> </p>
 
 
-- 🌱 I’m currently learning **Ppower BI, SQL, Excel and Python**
+- 🌱 I’m currently learning **power BI, SQL, Excel and Python**
 
 - 💬 Ask me about **Driven by curiosity and a passion for solving challenging problems through innovative solutions.**
 

@@ -1,3 +1,4 @@
+ ![3rd Banner](https://github.com/mehnaazsidra/mehnaazsidra/blob/main/3rd%20banner.jpg?raw=true)
 <h1 align="center">Hi 👋, I'm Sidra Mehnaaz</h1>
 <h3 align="center">A Passionate Data enthusiastic from India</h3>
 <img align="right" alt="Graph Animation" width="400" src="your-image-url.gif">
